@@ -1,4 +1,4 @@
-# LR Parse Pyhton
+# LR Parse Python
 
 The `lr` function is a versatile string parsing utility designed to extract substrings from a given input based on left and right delimiters. This Python function is inspired by a similar utility in C# and offers flexibility with its recursive and regular expression parsing capabilities.
 
